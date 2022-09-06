@@ -1,3 +1,4 @@
+![GitHub](https://img.shields.io/github/license/AnaLuizaMenezes/2emia-Projeto)
 # 2emia-Projeto
 Descricao do projeto
 ## Autores
